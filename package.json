@@ -4,7 +4,7 @@
   "repository": "https://github.com/AudreyHep/webpack-project.git",
   "author": "js",
   "scripts": {
-    "build": "node_modules/.bin/webpack"
+    "build": "webpack"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
